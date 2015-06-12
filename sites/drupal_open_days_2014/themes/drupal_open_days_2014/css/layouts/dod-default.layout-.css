@@ -1,0 +1,471 @@
+/* line 4, ../../sass/layouts/_page_layouts.scss */
+.node-type-homepage .foreground-o {
+  *zoom: 1;
+  max-width: 940px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: auto;
+  margin-right: auto; }
+  /* line 38, ../../../../../../../../../../.rvm/gems/ruby-2.2.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+  .node-type-homepage .foreground-o:after {
+    content: "";
+    display: table;
+    clear: both; }
+/* line 8, ../../sass/layouts/_page_layouts.scss */
+.node-type-homepage .l-region--below-content-o {
+  *zoom: 1;
+  max-width: 940px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: auto;
+  margin-right: auto; }
+  /* line 38, ../../../../../../../../../../.rvm/gems/ruby-2.2.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+  .node-type-homepage .l-region--below-content-o:after {
+    content: "";
+    display: table;
+    clear: both; }
+/* line 14, ../../sass/layouts/_page_layouts.scss */
+.node-type-homepage .view-content .column-1 {
+  width: 23%;
+  float: left;
+  margin-right: 2.66667%; }
+/* line 18, ../../sass/layouts/_page_layouts.scss */
+.node-type-homepage .view-content .column-2 {
+  width: 74.33333%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.8em; }
+@media (max-width: 37.4375em) {
+  /* line 25, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .l-main {
+    padding-bottom: 11em; } }
+
+/* line 33, ../../sass/layouts/_page_layouts.scss */
+.page-user .picture-o {
+  width: 23%;
+  float: left;
+  margin-right: 2.66667%; }
+/* line 37, ../../sass/layouts/_page_layouts.scss */
+.page-user .bioAndDetails {
+  width: 74.33333%;
+  float: right;
+  margin-right: 0;
+  *margin-left: -0.8em; }
+/* line 41, ../../sass/layouts/_page_layouts.scss */
+.page-user .noUserPicture {
+  width: 74.33333%;
+  float: left;
+  margin-right: 2.66667%; }
+
+/* line 47, ../../sass/layouts/_page_layouts.scss */
+.view-whos-coming {
+  margin-top: 1.5em; }
+  /* line 50, ../../sass/layouts/_page_layouts.scss */
+  .view-whos-coming .views-row {
+    margin-bottom: 30px;
+    display: table; }
+  /* line 55, ../../sass/layouts/_page_layouts.scss */
+  .view-whos-coming .views-field-picture-o {
+    width: 110px;
+    margin-right: 10px; }
+  /* line 60, ../../sass/layouts/_page_layouts.scss */
+  .view-whos-coming .details {
+    width: 100%;
+    display: table-cell;
+    vertical-align: middle; }
+
+/* line 70, ../../sass/layouts/_page_layouts.scss */
+.page-sessions .views-field-picture,
+.page-proposed-sessions .views-field-picture {
+  display: none; }
+
+/* line 8, ../../sass/layouts/dod-default.layout.scss */
+html,
+body {
+  height: 100%; }
+
+/* line 12, ../../sass/layouts/dod-default.layout.scss */
+.l-page {
+  min-height: 100%;
+  position: relative;
+  overflow: hidden; }
+
+/* line 20, ../../sass/layouts/dod-default.layout.scss */
+.nav-min,
+.l-main,
+.l-footer-i {
+  *zoom: 1;
+  max-width: 940px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: auto;
+  margin-right: auto; }
+  /* line 38, ../../../../../../../../../../.rvm/gems/ruby-2.2.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/general/_clearfix.scss */
+  .nav-min:after,
+  .l-main:after,
+  .l-footer-i:after {
+    content: "";
+    display: table;
+    clear: both; }
+
+/* line 25, ../../sass/layouts/dod-default.layout.scss */
+.l-main {
+  padding-bottom: 9em;
+  margin-bottom: 50px; }
+
+/* line 30, ../../sass/layouts/dod-default.layout.scss */
+.l-content {
+  margin-top: 1.5em; }
+
+/* line 34, ../../sass/layouts/dod-default.layout.scss */
+.l-content-main {
+  margin-bottom: 2em; }
+
+/* line 38, ../../sass/layouts/dod-default.layout.scss */
+.l-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0; }
+
+@media (min-width: 37.5em) {
+  /* line 49, ../../sass/layouts/dod-default.layout.scss */
+  .l-main,
+  .l-footer-i {
+    max-width: 950px; }
+
+  /* line 57, ../../sass/layouts/dod-default.layout.scss */
+  .l-content {
+    margin-left: 5.33333%;
+    width: 89.33333%;
+    float: left;
+    margin-right: 1.33333%;
+    margin-top: 3.9em; }
+    /* line 63, ../../sass/layouts/dod-default.layout.scss */
+    .l-content .field--name-field-headline {
+      overflow: hidden; }
+    /* line 67, ../../sass/layouts/dod-default.layout.scss */
+    .l-content .h1-o {
+      width: 64.1791%;
+      float: left;
+      margin-right: 1.49254%; }
+    /* line 71, ../../sass/layouts/dod-default.layout.scss */
+    .l-content .l-content-main {
+      width: 64.1791%;
+      float: left;
+      margin-right: 1.49254%; }
+    /* line 77, ../../sass/layouts/dod-default.layout.scss */
+    .l-content .l-region--sidebar {
+      width: 34.32836%;
+      float: right;
+      margin-right: 0; }
+
+  /* line 82, ../../sass/layouts/_page_layouts.scss */
+  .page-whos-coming .h1-o,
+  .page-whos-coming .l-content-main,
+  .page-sponsors .h1-o,
+  .page-sponsors .l-content-main,
+  .page-schedule .h1-o,
+  .page-schedule .l-content-main {
+    float: none;
+    width: auto;
+    margin-right: auto; }
+
+  /* line 284, ../../sass/layouts/_page_layouts.scss */
+  .view-content .column-1 {
+    width: 25.5814%;
+    float: left;
+    margin-right: 2.32558%; }
+  /* line 289, ../../sass/layouts/_page_layouts.scss */
+  .view-content .column-2 {
+    width: 165.11628%;
+    float: left;
+    margin-right: 2.32558%; }
+
+  /* line 91, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .l-region--below-content-o {
+    max-width: 950px; }
+  /* line 97, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .foreground,
+  .node-type-homepage .l-region--below-content {
+    margin-left: 5.33333%;
+    width: 89.33333%;
+    float: left;
+    margin-right: 1.33333%; }
+  /* line 102, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .h1-o {
+    margin-top: 3em; }
+  /* line 106, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .field--name-field-homepage-introduction {
+    margin-top: 3.6em; }
+  /* line 284, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .view-content .column-1 {
+    width: 16.41791%;
+    float: left;
+    margin-right: 1.49254%; }
+  /* line 289, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .view-content .column-2 {
+    width: 105.97015%;
+    float: left;
+    margin-right: 1.49254%; }
+
+  /* line 114, ../../sass/layouts/_page_layouts.scss */
+  .l-footer-i {
+    overflow: hidden; }
+    /* line 117, ../../sass/layouts/_page_layouts.scss */
+    .l-footer-i .l-footer-i-i {
+      margin-left: 5.33333%;
+      width: 89.33333%;
+      float: left;
+      margin-right: 1.33333%; }
+
+  /* line 127, ../../sass/layouts/_page_layouts.scss */
+  .view-whos-coming {
+    margin-top: 1.5em; }
+    /* line 130, ../../sass/layouts/_page_layouts.scss */
+    .view-whos-coming .views-row {
+      float: left;
+      width: 33.33333%;
+      margin-bottom: 50px; }
+    /* line 136, ../../sass/layouts/_page_layouts.scss */
+    .view-whos-coming .views-field-picture-o {
+      float: left; }
+
+  /* line 143, ../../sass/layouts/_page_layouts.scss */
+  .page-sponsors .h1-o {
+    margin-left: 29.85075%; }
+  /* line 148, ../../sass/layouts/_page_layouts.scss */
+  .page-sponsors .view-sponsors .views-row {
+    clear: both;
+    overflow: hidden; }
+  /* line 153, ../../sass/layouts/_page_layouts.scss */
+  .page-sponsors .view-sponsors .views-field-field-sponsors-logo {
+    width: 28.35821%;
+    float: left;
+    margin-right: 1.49254%; }
+    /* line 156, ../../sass/layouts/_page_layouts.scss */
+    .page-sponsors .view-sponsors .views-field-field-sponsors-logo img {
+      float: right;
+      height: auto; }
+  /* line 162, ../../sass/layouts/_page_layouts.scss */
+  .page-sponsors .view-sponsors .description {
+    width: 64.1791%;
+    float: left;
+    margin-right: 1.49254%; }
+
+  /* line 170, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .h1-o {
+    width: 82.08955%;
+    float: left;
+    margin-right: 1.49254%; }
+  /* line 174, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .field--name-field-homepage-introduction {
+    width: 64.1791%;
+    float: left;
+    margin-right: 1.49254%; }
+  /* line 178, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .field--name-field-homepage-register-button {
+    margin-top: 9em;
+    width: 34.32836%;
+    float: right;
+    margin-right: 0; }
+
+  /* line 186, ../../sass/layouts/_page_layouts.scss */
+  .page-user .picture-o {
+    width: 25.5814%;
+    float: left;
+    margin-right: 2.32558%; }
+  /* line 190, ../../sass/layouts/_page_layouts.scss */
+  .page-user .bioAndDetails {
+    width: 72.09302%;
+    float: left;
+    margin-right: 2.32558%;
+    margin-right: 0; }
+
+  /* line 301, ../../sass/layouts/_page_layouts.scss */
+  .page-node-add .l-content-main-i,
+  .page-user-edit .l-content-main-i,
+  .page-user-register .l-content-main-i,
+  .page-user-login .l-content-main-i {
+    width: 100%;
+    float: left;
+    margin-right: 2.32558%; } }
+@media (min-width: 48.0625em) {
+  /* line 91, ../../sass/layouts/dod-default.layout.scss */
+  .l-main,
+  .l-footer-i {
+    max-width: 940px; }
+
+  /* line 99, ../../sass/layouts/dod-default.layout.scss */
+  .l-content {
+    margin-left: 4.21053%;
+    width: 91.57895%;
+    float: left;
+    margin-right: 1.05263%; }
+    /* line 103, ../../sass/layouts/dod-default.layout.scss */
+    .l-content .l-content-main {
+      width: 72.41379%;
+      float: left;
+      margin-right: 1.14943%; }
+    /* line 109, ../../sass/layouts/dod-default.layout.scss */
+    .l-content .l-region--sidebar {
+      width: 26.43678%;
+      float: right;
+      margin-right: 0; }
+
+  /* line 82, ../../sass/layouts/_page_layouts.scss */
+  .page-whos-coming .h1-o,
+  .page-whos-coming .l-content-main,
+  .page-sponsors .h1-o,
+  .page-sponsors .l-content-main,
+  .page-schedule .h1-o,
+  .page-schedule .l-content-main {
+    float: none;
+    width: auto;
+    margin-right: auto; }
+
+  /* line 284, ../../sass/layouts/_page_layouts.scss */
+  .view-content .column-1 {
+    width: 17.46032%;
+    float: left;
+    margin-right: 1.5873%; }
+  /* line 289, ../../sass/layouts/_page_layouts.scss */
+  .view-content .column-2 {
+    width: 112.69841%;
+    float: left;
+    margin-right: 1.5873%; }
+
+  /* line 91, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .l-region--below-content-o {
+    max-width: 940px; }
+  /* line 97, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .foreground,
+  .node-type-homepage .l-region--below-content {
+    margin-left: 4.21053%;
+    width: 91.57895%;
+    float: left;
+    margin-right: 1.05263%; }
+  /* line 102, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .h1-o {
+    margin-top: 3em; }
+  /* line 106, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .field--name-field-homepage-introduction {
+    margin-top: 3.6em; }
+  /* line 284, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .view-content .column-1 {
+    width: 12.64368%;
+    float: left;
+    margin-right: 1.14943%; }
+  /* line 289, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .view-content .column-2 {
+    width: 81.6092%;
+    float: left;
+    margin-right: 1.14943%; }
+
+  /* line 114, ../../sass/layouts/_page_layouts.scss */
+  .l-footer-i {
+    overflow: hidden; }
+    /* line 117, ../../sass/layouts/_page_layouts.scss */
+    .l-footer-i .l-footer-i-i {
+      margin-left: 4.21053%;
+      width: 91.57895%;
+      float: left;
+      margin-right: 1.05263%; }
+
+  /* line 205, ../../sass/layouts/_page_layouts.scss */
+  .page-node .h1-o {
+    width: 58.62069%;
+    float: left;
+    margin-right: 1.14943%; }
+  /* line 209, ../../sass/layouts/_page_layouts.scss */
+  .page-node .l-content-main-i {
+    width: 80.95238%;
+    float: left;
+    margin-right: 1.5873%; }
+
+  /* line 218, ../../sass/layouts/_page_layouts.scss */
+  .page-sessions .h1-o,
+  .page-proposed-sessions .h1-o,
+  .page-updates .h1-o {
+    margin-left: 13.7931%; }
+  /* line 222, ../../sass/layouts/_page_layouts.scss */
+  .page-sessions .views-field-picture,
+  .page-proposed-sessions .views-field-picture,
+  .page-updates .views-field-picture {
+    display: block; }
+
+  /* line 229, ../../sass/layouts/_page_layouts.scss */
+  .page-sponsors .h1-o {
+    margin-left: 22.98851%; }
+  /* line 234, ../../sass/layouts/_page_layouts.scss */
+  .page-sponsors .view-sponsors .views-field-field-sponsors-logo {
+    width: 21.83908%;
+    float: left;
+    margin-right: 1.14943%; }
+  /* line 238, ../../sass/layouts/_page_layouts.scss */
+  .page-sponsors .view-sponsors .description {
+    width: 49.42529%;
+    float: left;
+    margin-right: 1.14943%; }
+
+  /* line 246, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .h1-o {
+    width: 63.21839%;
+    float: left;
+    margin-right: 1.14943%; }
+  /* line 251, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .block--views h2 {
+    margin-left: 13.7931%; }
+  /* line 256, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .field--name-field-homepage-introduction {
+    width: 54.02299%;
+    float: left;
+    margin-right: 1.14943%; }
+  /* line 260, ../../sass/layouts/_page_layouts.scss */
+  .node-type-homepage .field--name-field-homepage-register-button {
+    margin-left: 9.1954%;
+    width: 35.63218%;
+    float: right;
+    margin-right: 0; }
+
+  /* line 268, ../../sass/layouts/_page_layouts.scss */
+  .page-user .picture-o {
+    width: 17.46032%;
+    float: left;
+    margin-right: 1.5873%; }
+  /* line 272, ../../sass/layouts/_page_layouts.scss */
+  .page-user .bioAndDetails {
+    width: 68.25397%;
+    float: left;
+    margin-right: 1.5873%; }
+
+  /* line 301, ../../sass/layouts/_page_layouts.scss */
+  .page-node-add .l-content-main-i,
+  .page-user-edit .l-content-main-i,
+  .page-user-register .l-content-main-i,
+  .page-user-login .l-content-main-i {
+    width: 74.60317%;
+    float: left;
+    margin-right: 1.5873%; }
+
+  /* line 123, ../../sass/layouts/dod-default.layout.scss */
+  .front .l-region--below-content {
+    margin-left: 4.21053%;
+    width: 91.57895%;
+    float: left;
+    margin-right: 1.05263%; }
+    /* line 128, ../../sass/layouts/dod-default.layout.scss */
+    .front .l-region--below-content #block-views-featured-sessions-block {
+      width: 63.21839%;
+      float: left;
+      margin-right: 1.14943%; }
+    /* line 133, ../../sass/layouts/dod-default.layout.scss */
+    .front .l-region--below-content #block-views-sponsors-block-2 {
+      clear: both;
+      margin: 0 auto;
+      width: 100%; }
+    /* line 140, ../../sass/layouts/dod-default.layout.scss */
+    .front .l-region--below-content #block-block-5 {
+      width: 35.63218%;
+      float: right;
+      margin-right: 0; } }
